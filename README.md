@@ -1,2 +1,2 @@
 # Data-Analysis-Portofolio
-This repository is all about data analysis and visualisation.
+In my data analysis portfolio, I leverage Python and a range of powerful libraries to extract insights and drive decision-making. I use Pandas for data manipulation and cleaning, enabling me to handle large datasets efficiently. With NumPy, I perform numerical computations and manage complex arrays. For data visualization, I rely on Matplotlib and Seaborn to create informative and visually appealing charts and graphs. Additionally, I utilize SciPy for advanced statistical analysis and Scikit-learn for building and evaluating machine learning models. By integrating these tools, I am able to conduct comprehensive data analyses and present findings in a clear and impactful manner.
